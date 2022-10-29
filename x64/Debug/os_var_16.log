@@ -1,0 +1,21 @@
+﻿  Lissajous.cpp
+  os_var_16.cpp
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(625,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(643,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(645,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(655,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(657,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(688,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(688,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(689,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(689,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(704,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(704,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(705,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(705,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(639,12): warning C4101: y: неиспользованная локальная переменная
+C:\Users\PC\source\repos\os_var_16\os_var_16.cpp(639,9): warning C4101: x: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\PC\source\repos\os_var_16\Lissajous.cpp(74): warning C4715: Lissajous::ThreadFuncY: значение возвращается не при всех путях выполнения
+C:\Users\PC\source\repos\os_var_16\Lissajous.cpp(60): warning C4715: Lissajous::ThreadFuncX: значение возвращается не при всех путях выполнения
+  os_var_16.vcxproj -> C:\Users\PC\source\repos\os_var_16\x64\Debug\os_var_16.exe

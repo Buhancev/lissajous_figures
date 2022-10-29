@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fd68104-b9c0-4a33-b48c-fb578a95c0b0": {
+      "ProjectGuid": "3fd68104-b9c0-4a33-b48c-fb578a95c0b0",
+      "DisplayName": "os_var_16",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
